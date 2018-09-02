@@ -1,0 +1,17 @@
+D:\C# Project\AWSRekog\AWSRekog\obj\Debug\AWSRekog.csprojAssemblyReference.cache
+D:\C# Project\AWSRekog\AWSRekog\obj\Debug\AWSRekog.csproj.CoreCompileInputs.cache
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSRekog.exe.config
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSRekog.exe
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSRekog.pdb
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.AutoScaling.dll
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Core.dll
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Rekognition.dll
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.AutoScaling.pdb
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.AutoScaling.xml
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Core.pdb
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Core.xml
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Rekognition.pdb
+D:\C# Project\AWSRekog\AWSRekog\bin\Debug\AWSSDK.Rekognition.xml
+D:\C# Project\AWSRekog\AWSRekog\obj\Debug\AWSRekog.csproj.CopyComplete
+D:\C# Project\AWSRekog\AWSRekog\obj\Debug\AWSRekog.exe
+D:\C# Project\AWSRekog\AWSRekog\obj\Debug\AWSRekog.pdb
